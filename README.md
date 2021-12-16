@@ -13,8 +13,8 @@ Deliverable 2: Reducing Data Dimensions Using PCA
 ![deliverable_2_PCA](https://user-images.githubusercontent.com/88510296/146452881-46cec9ad-21fe-4d1f-a50d-8862002ec05c.png)
 
 Deliverable 3: Clustering Cryptocurrencies Using K-means
-![deliverable_3_dataframe](https://user-images.githubusercontent.com/88510296/146452900-3760f27c-9187-4fc1-ae96-310a22c12b65.png)
 ![deliverable_3_elbow_curve](https://user-images.githubusercontent.com/88510296/146452919-0c6c8ba8-31eb-4a5c-8983-497afddd50c9.png)
+![deliverable_3_dataframe](https://user-images.githubusercontent.com/88510296/146452900-3760f27c-9187-4fc1-ae96-310a22c12b65.png)
 
 Deliverable 4: Visualizing Cryptocurrencies Results
 ![deliverable_4_3d_scatter](https://user-images.githubusercontent.com/88510296/146452943-13fc35fb-8964-43dc-8010-ef7a6a26eae5.png)
